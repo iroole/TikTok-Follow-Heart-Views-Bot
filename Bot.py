@@ -147,7 +147,7 @@ def loop6():
     print("Reload")
     loop5()
 
-print("Author: https://github.com/NoNameoN-A")
+print("This is a 7shame production")
 
 vidUrl = "https://www.tiktok.com/@enounced/video/6961230097483304197/" #Change it
 
