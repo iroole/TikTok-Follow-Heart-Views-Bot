@@ -160,7 +160,7 @@ chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(executable_path=r'C:\Users\tavis\Downloads\chromedriver_win32 (1)\chromedriver.exe',chrome_options=chrome_options) #Change it
 
-driver.get("https://vipto.de/")
+driver.get("https://zefoy.com/")
 
 if bot == 1:
     loop1()
